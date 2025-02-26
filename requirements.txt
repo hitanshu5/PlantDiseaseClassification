@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+Pillow
+numpy
+pandas
+scikit-learn
+h5py
+plotly
+webcolors
